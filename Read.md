@@ -4,11 +4,12 @@ Este é um repositório teste para aprender como git funciona.
 
 Teste dois
 
-Gostou do curso? ajude
 
-modificação
+modificação 1
 
-modifiquei denovo
+modifiquei denovo 2
 
 
-Testando tags
+Testando tags1
+
+apagando tags 2
